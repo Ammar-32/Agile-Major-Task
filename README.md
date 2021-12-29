@@ -1,5 +1,11 @@
-# AgileMajorTask
-School Online System
+# Agile Major Task
+Name : Ammar Moataz Saad Aly Mokhtar
+
+ID : 18P6278
+
+Group 1 Section 1
+
+# School Online System
 
 ## SCRUM 
 Name: Ammar Role: SCRUM Master
