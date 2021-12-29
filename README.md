@@ -28,3 +28,9 @@ Name: Youssef Role: Test Lead/Manager Expertise: Project Management and Ordinati
 Name: Micheal Role: QC Tester Expertise: Selenium, SQL Injection, Katalon Studio
 
 Name: Rawan Role: Network Test Engineer Expertise: Network testing and Operating Systems
+
+## Stakeholders
+Schools
+Universities
+Teaching Centres
+Institutes
