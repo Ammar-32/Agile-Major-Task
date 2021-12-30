@@ -57,3 +57,16 @@ Our project is an open source project which targets any educational institute to
 *
 
 *
+
+## Convention
+Convention
+We will depend on the Fibonacci numbers in our estimation to decide the story points according to the following table
+| Story Points      | Story Type |
+| :---        |    :----:   |
+| 5     | Very Small       |
+| 8   | Small        |
+| 13   | Medium        |
+| 20   | Large        |
+| 40   | Very Large        |
+
+
