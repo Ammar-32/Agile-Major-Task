@@ -5,7 +5,7 @@ ID : 18P6278
 
 Group 1 Section 1
 
-# School Online System
+# Educately
 Our project is an open source project which targets any educational institute to manage data between teachers and students
 
 ## SCRUM 
