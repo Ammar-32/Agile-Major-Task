@@ -57,7 +57,7 @@ Backlog items are ordered according to their business value to the stakeholders 
 ### Some Notes
 * Our team can achieve around 55 story points per sprint 
 
-* Our sprint duration will be 3 weeks
+* Our sprint duration will be 2 weeks
 
 * For each productive working day where the almost all the team members are working for 8 hours a day / 5 times a week, They can finish 4-6 story points.
 
