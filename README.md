@@ -72,4 +72,31 @@ We will depend on the Fibonacci numbers in our estimation to decide the story po
 | 20   | Large        |
 | 40   | Very Large        |
 
+## Backlog
+![backlog](/media/backlog.png)
 
+## Workflow
+![workflow](/media/workflow.png)
+
+## Daily Scrum Documents ( 2 Examples )
+### Daily Meeting Document 1
+|     Team member    |     Question                             |     Monday                                                                      |     Tuesday                                                                                         |
+|--------------------|------------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|                    |     What   did you do yesterday?         |     I did   the HTML/CSS for the login screen                                   |     I   finished the dashboard frontend for students                                                |
+|     Ahmed          |     What   are doing today?              |     I will   start coding the frontend for the dashboard for the students       |     I   will start coding the front end for the dashboard for the teachers                          |
+|                    |     Is   there anything blocking you?    |     No                                                                          |     No                                                                                              |
+|                    |     What   did you do yesterday?         |     I   designed the database schema and ER Diagram and started                 |     I   created the database successfully and required scripts                                      |
+| Mazen              |     What   are doing today?              |     I am   going to create the database and required SQL scripts and queries    |     I am   going to connect the database to our frontend and submit the work for testing   team.    |
+|                    |     Is   there anything blocking you?    |     No                                                                          |     No.                                                                                             |
+
+### Daily Meeting Document 2
+|     Team member    |     Question                             |     Monday                                                            |     Tuesday                                                                   |
+|--------------------|------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|                    |     What   did you do yesterday?         |     I did   the login screen frontend for the mobile app interface    |     I   finished the dashboard frontend for students only                     |
+|     Rana           |     What   are doing today?              |     I   will start coding the dashboard frontend                      |     I will   start coding the front end for the dashboard for the teachers    |
+|                    |     Is   there anything blocking you?    |     No                                                                |     No                                                                        |
+|                    |     What   did you do yesterday?         |     I   tested the gui of the webapp                                  |     I   tested the mobile app gui                                             |
+| Micheal            |     What   are doing today?              |     I am   going to test the mobile app gui                           |     I am   going to apply some database tests using SQL Injection             |
+|                    |     Is   there anything blocking you?    |     No                                                                |     No.                                                                       |
+
+## Sprint Document
