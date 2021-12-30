@@ -46,7 +46,7 @@ Our project "Educately" is an open source project which targets any educational 
 * Institutes
 
 ## Near Vision
-### Sprint #!
+### Sprint #1
 * Implement the front-end of the web app
 * Design the database and implement it
 * Connect the database end to the frontend
