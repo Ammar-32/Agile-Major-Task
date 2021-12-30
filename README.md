@@ -47,16 +47,19 @@ Our project is an open source project which targets any educational institute to
 
 ## Near Vision
 
+
 ## Future Vision
 
+
 ## Product Backlog Rationale
+Backlog items are ordered according to their business value to the stakeholders since the stakeholders favors some items over the others due to the possible return on investment. Also concerning the small stories, if a specific story depends on another, then it should be executed after it.
 
 ### Some Notes
-*
+* Our team can achieve around 50-53 story points per sprint 
 
-*
+* Our sprint duration will be 3 weeks
 
-*
+* For each productive working day where the almost all the team members are working for 8 hours a day / 5 times a week, They can finish 4-6 story points.
 
 ## Convention
 Convention
