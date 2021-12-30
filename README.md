@@ -55,7 +55,7 @@ Our project "Educately" is an open source project which targets any educational 
 Backlog items are ordered according to their business value to the stakeholders since the stakeholders favors some items over the others due to the possible return on investment. Also concerning the small stories, if a specific story depends on another, then it should be executed after it.
 
 ### Some Notes
-* Our team can achieve around 50-53 story points per sprint 
+* Our team can achieve around 55 story points per sprint 
 
 * Our sprint duration will be 3 weeks
 
