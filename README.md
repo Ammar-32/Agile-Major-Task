@@ -6,7 +6,7 @@ ID : 18P6278
 Group 1 Section 1
 
 # Educately
-Our project is an open source project which targets any educational institute to manage data between teachers and students
+Our project "Educately" is an open source project which targets any educational institute to manage data between teachers and students
 
 ## SCRUM 
 * Name: Ammar Role: SCRUM Master
