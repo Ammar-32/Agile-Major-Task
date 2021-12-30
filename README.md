@@ -5,6 +5,7 @@
 
 ### Group 1 Section 1
 
+### ALL JIRA STEPS AND SCREENSHOTS INCLUDED IN THE WORD DOCUMENT SUBMITTED WITH THE REPO
 # Educately
 Our project "Educately" is an open source project which targets any educational institute to manage data between teachers and students
 
