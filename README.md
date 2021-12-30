@@ -46,10 +46,20 @@ Our project "Educately" is an open source project which targets any educational 
 * Institutes
 
 ## Near Vision
+### Sprint #!
+* Implement the front-end of the web app
+* Design the database and implement it
+* Connect the database end to the frontend
+* Implement Add quiz/assignment/material for the teacher
 
+### Sprint #2
+* Implement front-end of the mobile app
+* Implement the student feature to submit assignments
+* Implement the student feature to attempt quizzes
+* Add the option for teachers to edit posts
 
 ## Future Vision
-
+Our target is to build a full cross-platform system that satisfy any educational institute's needs. The system should be compatible with any web browser, Android OS, IOS. The system will make the educational process much easier and will an open source project so people could integrate their own new features.
 
 ## Product Backlog Rationale
 Backlog items are ordered according to their business value to the stakeholders since the stakeholders favors some items over the others due to the possible return on investment. Also concerning the small stories, if a specific story depends on another, then it should be executed after it.
