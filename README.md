@@ -44,3 +44,16 @@ Our project is an open source project which targets any educational institute to
 * Teaching Centres
 
 * Institutes
+
+## Near Vision
+
+## Future Vision
+
+## Product Backlog Rationale
+
+### Some Notes
+*
+
+*
+
+*
