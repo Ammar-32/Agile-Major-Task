@@ -100,3 +100,16 @@ We will depend on the Fibonacci numbers in our estimation to decide the story po
 |                    |     Is   there anything blocking you?    |     No                                                                |     No.                                                                       |
 
 ## Sprint Document
+### First Sprint:
+Goal: By the end of this sprint, we should implement Login Screen for the teacher on the mobile app and the web app, Implement the add assignment feature, Implement Add quiz feature and implent assign grade to student feature
+
+Progress: Completed successfully
+
+Next Sprint: Implement Upload material, edit material and start implementing the login screen for the students interface
+
+### Second Sprint:
+Goal: By the end of this sprint, we should Implement Upload material, edit material and start implementing the login screen for the students interface
+
+Progress: Completed successfully
+
+Next Sprint: Implement student registration, student accessing materials for only courses registered and student submit a complaint feature.
