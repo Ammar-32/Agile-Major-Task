@@ -1,9 +1,9 @@
 # Agile Major Task
-Name : Ammar Moataz Saad Aly Mokhtar
+### Name : Ammar Moataz Saad Aly Mokhtar
 
-ID : 18P6278
+### ID : 18P6278
 
-Group 1 Section 1
+### Group 1 Section 1
 
 # Educately
 Our project "Educately" is an open source project which targets any educational institute to manage data between teachers and students
